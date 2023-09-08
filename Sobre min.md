@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanSilvaJ
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...HTML Aand CSS3
+- 👀 I’m interested in ...programming and Website development
+- 🌱 I’m currently learning ...HTML and CSS3
 - 💞️ I’m looking to collaborate on ...to make the world better
 - 📫 How to reach me ...(https://www.instagram.com/neeh_021/)
 
